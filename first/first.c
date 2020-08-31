@@ -80,6 +80,7 @@ int main(int argc, char** argv) {
   free(evenA);
   free(oddA);
   printf("Hello");
+  printf("Dan Was Here")
   return 0;
 }
 
